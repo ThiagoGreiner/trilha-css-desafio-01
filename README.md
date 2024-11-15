@@ -1,22 +1,29 @@
-# Desafio 01: Criando sua primeira Landing Page com HTML e CSS
+<h1 align="center">Desafio CSS 01</h1>
 
-Bem vindo(a) ao primeiro desafio da Trilha de CSS da DIO! Nela, você vai construir sua primeira Landing Page com HTML e CSS, colocando em prática os fundamentos do CSS,
-as propriedades básicas da linguagem de estilização, além de trabalhar com as unidades de medidas relativas e absolutas que aprendemos ao longo da trilha.
+<p align="center">
+    Este é um projeto que realizei ao longo dos estudos na DIO, onde coloquei em prática algumas habilidades adquiridas, seguindo o protótipo do Figma disponibilizado e realizando algumas alterações. 
+</p>
 
-[Clique aqui](https://micheleambrosio.github.io/dio-trilha-css-desafio-01/) para acessar o resultado final da Landing Page criada a partir do desafio!
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>
+</p>
 
-![image](https://user-images.githubusercontent.com/55519539/183538055-6cce606c-7d1d-4d15-a4be-ffeb5b37c956.png)
+<br>
 
-Para você realizar o desafio, basta fazer um **fork** para o seu GitHub e começar a mexer no projeto.
-Dentro da pasta *main*, você vai encontrar todas as imagens e o arquivo HTML, contendo a estrutura básica da sua página, faltando apenas
-realizar a estilização da sua página. É necessário que você faça toda a parte responsável por interligar sua página HTML com suas folhas
-de estilo para que o resultado da estilização funcione.
+<p align="center">
+  <img alt="Trilha CSS" src=".github/preview.jpg" width="100%">
+</p>
 
-[Link do Figma](https://www.figma.com/file/3PiokoJj9IhGDnNiWAJbz7/DIO---Desafio-01?node-id=2%3A6) contendo o protótipo do desafio para
-que você possa se basear.
+## 🚀 Tecnologias
 
-*Observações: para aplicar os textos em gradiente, utilize a propriedade CSS background-clip, porém, para funcionar em alguns navegadores,
-é necessário utilizar a propriedade -webkit-background-clip: text;*
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-Caso tenha alguma dúvida, ou queira comparar o resultado do desafio que você fez, nós temos o site finalizado na branch *final*. Basta alterar a branch do projeto
-utilizando o comando `git checkout final` no seu terminal.
+- HTML e CSS
+- Git e Github
+- Figma
+
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/53IZ0xHmJ5Pq787sZ0KOCH/DIO---Desafio-01-(Copy)?node-id=2-6&t=ypbCWpeJ3VJMLfu9-1) ou o protótipo [NESTE LINK](https://www.figma.com/proto/53IZ0xHmJ5Pq787sZ0KOCH/DIO---Desafio-01-(Copy)?node-id=2-6&node-type=frame&t=ypbCWpeJ3VJMLfu9-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
